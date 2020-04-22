@@ -2,6 +2,7 @@
   <div>
     <slot>
     <h2>デフォルトタイトル (フォールバックコンテンツ)</h2>
+    
     </slot>
     <p>{{headerText}}</p>
   </div>
